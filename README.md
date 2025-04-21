@@ -43,13 +43,13 @@ pip install pandas
 
 1. **Clone this repository**
 ```bash
-git clone https://github.com/Karanv777/Finance_Tracker.git
-cd Finance_Tracker
+git clone https://github.com/Karanv777/Personal_Finance_Tracker.git
+cd Personal_Finance_Tracker
 ```
 
 2. **Run the program**
 ```bash
-python finance_tracker.py
+python main.py
 ```
 
 
